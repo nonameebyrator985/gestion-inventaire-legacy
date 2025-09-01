@@ -18,3 +18,6 @@ Pour signaler un bug, veuillez ouvrir un problème sur GitHub et fournir autant 
 
 ## Suggestions d'amélioration
 Les suggestions d'amélioration sont également les bienvenues ! N'hésitez pas à ouvrir un problème avec vos idées.
+
+## Remarque
+Veuillez vérifier que vos modifications ne perturbent pas le fonctionnement général avant de soumettre votre pull request.
