@@ -9,7 +9,7 @@ Nous attendons de tous les contributeurs qu'ils respectent notre code de conduit
 1. Forkez le dépôt.
 2. Créez une nouvelle branche (`git checkout -b ma-nouvelle-fonctionnalité`).
 3. Apportez vos modifications.
-4. Confirmez vos changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`).
+4. Confirmez vos changements (`git commit -m 'Votre message de commit ici'`).
 5. Poussez vos modifications vers la branche (`git push origin ma-nouvelle-fonctionnalité`).
 6. Ouvrez une pull request.
 
