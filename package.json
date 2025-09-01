@@ -1,0 +1,14 @@
+{
+  "name": "gestion-inventaire-legacy",
+  "version": "1.0.0",
+  "description": "Un projet pour moderniser un ancien système de gestion des stocks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Votre Nom",
+  "license": "MIT"
+}
