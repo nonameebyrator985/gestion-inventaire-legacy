@@ -1,7 +1,7 @@
 {
   "name": "gestion-inventaire-legacy",
   "version": "1.0.0",
-  "description": "Un projet pour moderniser un ancien système de gestion des stocks.",
+  "description": "Projet destiné à la modernisation d'un ancien système de gestion des stocks, pouvant inclure de nouvelles fonctionnalités et une meilleure interface utilisateur.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
